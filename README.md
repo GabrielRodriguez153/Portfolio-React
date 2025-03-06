@@ -1,8 +1,5 @@
 # Portfólio Online - Gabriel Henrique
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/gabrielhrodriguez/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/GabrielRodriguez153)
-
 ![Preview](imgs/Imagem.png)
 
 > **Portfólio profissional** desenvolvido para mostrar habilidades, projetos e experiências como Desenvolvedor Full-Stack.
