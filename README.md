@@ -1,7 +1,5 @@
 # Portfólio Online - Gabriel Henrique
 
-![Preview](imgs/Imagem.png)
-
 > **Portfólio profissional** desenvolvido para mostrar habilidades, projetos e experiências como Desenvolvedor Full-Stack.
 
 ---
