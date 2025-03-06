@@ -20,7 +20,7 @@ Apresentar de forma clara e moderna:
 
 ### Tecnologias Utilizadas
 - **Frontend:** React, JavaScript, Vite
-- **Estilização:** CSS3 (sem Tailwind), Responsividade
+- **Estilização:** CSS3, TailwindCSS, Responsividade
 - **Funcionalidades:** Navbar interativa, Dark Mode, Menu Mobile
 
 ---
