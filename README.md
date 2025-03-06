@@ -1,12 +1,60 @@
-# React + Vite
+# Portfólio Online - Gabriel Henrique
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **Portfólio profissional** desenvolvido para mostrar habilidades, projetos e experiências como Desenvolvedor Full-Stack.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Sobre o Projeto
 
-## Expanding the ESLint configuration
+### Objetivo
+Apresentar de forma clara e moderna:
+- Perfil profissional
+- Habilidades técnicas
+- Projetos desenvolvidos
+- Canais de contato
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Tecnologias Utilizadas
+- **Frontend:** React, JavaScript, Vite
+- **Estilização:** CSS3, TailwindCSS, Responsividade
+- **Funcionalidades:** Navbar interativa, Dark Mode, Menu Mobile
+
+---
+
+## ✨ Funcionalidades Principais
+
+### Seções do Portfólio
+1. **Home**  
+   - Apresentação pessoal
+   - Botão para download do currículo
+
+2. **Sobre**  
+   - Foto de perfil
+   - Formação acadêmica (5º semestre de DSM na FATEC Registro)
+   - Redes sociais (LinkedIn, GitHub)
+
+3. **Projetos**  
+   - Cards interativos para exibição de trabalhos
+   - Links para repositórios no GitHub
+
+4. **Skills**  
+   - Lista de tecnologias utilizadas
+   - Ícones representando habilidades técnicas
+
+5. **Contato**  
+   - Formulário funcional para envio de mensagens
+   - Links diretos para redes sociais
+
+---
+
+## 📬 Contato
+
+Entre em contato comigo através dos seguintes canais:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Henrique-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielhrodriguez/)
+[![GitHub](https://img.shields.io/badge/GitHub-GabrielRodriguez153-181717?style=for-the-badge&logo=github)](https://github.com/GabrielRodriguez153)
+[![Email](https://img.shields.io/badge/Email-Contato_Profissional-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielh.salles@outlook.com)
+
+### Formas de Contato:
+- **LinkedIn:** Mensagem direta pela plataforma
+- **GitHub:** Abertura de issues em repositórios
+- **E-mail profissional:** gabrielh.salles@outlook.com
